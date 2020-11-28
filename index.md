@@ -3,12 +3,7 @@
 Here you will see a list of my projects
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Projects
 
 # Slickdeals Web Scraper
 
@@ -16,7 +11,7 @@ Syntax highlighted code block
 
 # Zillow Web Scraper
 
- [Zillow Scraper]([https://github.com/jox51/scrapers/tree/main/zillow)
+ [Zillow Scraper](https://github.com/jox51/scrapers/tree/main/zillow)
 
  
 

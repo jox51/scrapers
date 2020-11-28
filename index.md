@@ -12,11 +12,11 @@ Syntax highlighted code block
 
 # Slickdeals Web Scraper
 
-[https://github.com/jox51/scrapers/tree/main/selenium_slickdeals]
+[Slickdeals Scraper](https://github.com/jox51/scrapers/tree/main/selenium_slickdeals)
 
 # Zillow Web Scraper
 
- [https://github.com/jox51/scrapers/tree/main/zillow]
+ [Zillow Scraper]([https://github.com/jox51/scrapers/tree/main/zillow)
 
  
 

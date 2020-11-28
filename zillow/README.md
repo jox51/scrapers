@@ -1,4 +1,4 @@
-# scrapers
+# Zillow Scraper
 
 Zillow scraper template that can be used to scrape listings from zillow.com
 Currently set to Miami 
